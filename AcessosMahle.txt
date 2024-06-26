@@ -1,0 +1,11 @@
+\\mogfs03\sap
+
+usuário: abap2
+
+senha  : mahle02
+
+\\mogfs03\Sap\WD\Workshop
+
+10.32.255.72 brmgebe.mahle.com.br
+
+329474
